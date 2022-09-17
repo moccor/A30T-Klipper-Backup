@@ -1,0 +1,2 @@
+Stop after "powermanager" install
+Smart Plugs : https://lazarofilm.gitbook.io/3d-printing/use-tplink-smart-plug-with-mainsail.
